@@ -16,6 +16,7 @@ public final class NameCity_jsp extends org.apache.jasper.runtime.HttpJspBase
     implements org.apache.jasper.runtime.JspSourceDependent,
                  org.apache.jasper.runtime.JspSourceImports {
 	Double abc;
+
   private static final javax.servlet.jsp.JspFactory _jspxFactory =
           javax.servlet.jsp.JspFactory.getDefaultFactory();
 
